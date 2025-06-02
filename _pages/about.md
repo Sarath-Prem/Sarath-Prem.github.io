@@ -49,24 +49,3 @@ For more info
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
 
 
-```mermaid
-graph LR
-  %% Define domain nodes
-  subgraph Domain
-    D1["1"]
-    D2["2"]
-    D3["3"]
-  end
-
-  %% Define codomain nodes
-  subgraph Codomain
-    C2["2"]
-    C4["4"]
-    C6["6"]
-  end
-
-  %% Draw arrows for f(1)=2, f(2)=4, f(3)=6
-  D1 --> C2
-  D2 --> C4
-  D3 --> C6
-
