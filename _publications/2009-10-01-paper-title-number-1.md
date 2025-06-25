@@ -9,5 +9,5 @@ venue: 'Physical review B'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://journals.aps.org/prb/abstract/10.1103/PhysRevB.109.155304'
 #bibtexurl: 'http://academicpages.github.io/files/BiBTeX_Longitudinal coupling between electrically driven spin qubits and a resonator.bib'
-citation: '<u>Sarath Prem<u>, Pei-Xin Shen, Marcin M. Wysokiński, and Mircea Trif'
+citation: 'Sarath Prem, Pei-Xin Shen, Marcin M. Wysokiński, and Mircea Trif'
 ---
