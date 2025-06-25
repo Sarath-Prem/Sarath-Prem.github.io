@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Physics, Maths & Music "
+title                    : "Sarath Prem"
 title_separator          : "-"
 name                     : &name "Sarath Prem"
 description              : &description "Discussion about stuff"
