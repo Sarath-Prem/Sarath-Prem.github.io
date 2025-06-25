@@ -8,8 +8,6 @@ permalink: /talks/2012-03-01-talk-1
 #location: "San Francisco, CA, USA"
 ---
 
-## Talks and Posters Presented
-
 - *IFPAN reporting session for 2024, Warsaw, Poland* (February 20, 2025): <u>Poster on</u> “Visibility of microwave absorption as a probe of Majorana bound states non-locality”  
 - *Focused Expert Meeting on INTERFACING MAGNETISM AND SUPERCONDUCTIVITY WITH TOPOLOGICAL MATTER 2024, Warsaw, Poland* (October 22–23, 2024): <u>Poster on</u> “Visibility of microwave absorption to distinguish Majorana, quasi-Majorana, and Andreev states”  
 - *IIT Madras, India* (September 26, 2024): <u>Talk on</u> “Longitudinal coupling between electrically driven spin-qubits and a resonator” (Contributed talk organized by Prof. Rajesh Narayanan)  
