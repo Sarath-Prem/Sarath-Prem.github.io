@@ -3,7 +3,7 @@ title: "Longitudinal coupling between electrically driven spin qubits and a reso
 collection: publications
 category: manuscripts
 permalink: /publications/Longitudinal coupling between electrically driven spin qubits and a resonator
-excerpt: 'Click link for abstract'
+excerpt: 'Electrically shuttling electron (or hole spin) periodically gives Floquet states. Coupling this to cavity, we show this is a qubit platform.'
 date: Published 22 April, 2024
 venue: 'Physical review B'
 arxivurl: 'https://arxiv.org/abs/2301.10163'
