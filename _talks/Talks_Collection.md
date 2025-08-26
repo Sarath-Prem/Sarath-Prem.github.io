@@ -1,7 +1,7 @@
 ---
-title: "Talks"
-collection: talks
-type: "Talk"
+title: "33 Talks"
+collection: 11 talks
+type: "22 Talk"
 #permalink: /talks/2012-03-01-talk-1
 #venue: "UC San Francisco, Department of Testing"
 #date: 2012-03-01
